@@ -1,7 +1,6 @@
 {
-  "pack": {
-    "description": "dtbf resources",
-    "pack_format": 15,
-    "forge:server_data_pack_format": 12
-  }
+	"pack": {
+		"description": "Dark Title Bar Resources",
+		"pack_format": 3
+	}
 }
